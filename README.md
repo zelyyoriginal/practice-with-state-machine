@@ -2,8 +2,7 @@
 
 This project is a 3D top-down game where both the player and non-player characters (NPCs) are controlled using state machines.
 
-
-[preView](PreView/PreView.mp4)
+https://youtu.be/z1mjWMuuMio
 
 ## Controls
 
