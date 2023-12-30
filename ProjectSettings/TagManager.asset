@@ -3,15 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Parkur
+  - Weapon
+  - Enemy
+  - CombatZone
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Graund
   - Water
   - UI
-  - 
+  - Parkur
   - 
   - 
   - 
